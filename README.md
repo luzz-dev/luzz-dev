@@ -1,0 +1,3 @@
+- 👋 Hi, I’m LUZZ
+- 🌱 I’m currently learning rust and godot
+- 💞️ I’m looking to collaborate on Linux Mint
